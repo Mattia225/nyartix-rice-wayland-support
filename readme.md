@@ -22,6 +22,7 @@
 # WorkFlow      
 [Here](https://www.youtube.com/watch?v=XozBlrjEXqM&ab_channel=_Nekokatzen00)
 
+# HyprLand
 
 # Details
 * Font Used : Iosevka Custom
